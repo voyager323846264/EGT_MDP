@@ -1,2 +1,2 @@
 # EGT_MDP
-FOR MDP in EGT
+MDP in EGT
